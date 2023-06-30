@@ -2,7 +2,7 @@
 Stage d'application 2A
 
 
-# Page 1 : Antenne
+## Page 1 : Antenne
 Choisir le type d'antenne. Les mesures vont être différentes selon leur type.
 
 # Page 2 : Affichage Mesure
